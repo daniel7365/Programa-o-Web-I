@@ -31,8 +31,6 @@ Você pode acessar a versão final do site publicada através do link:
 
 👉 **[Acessar Currículo Online](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**
 
-*(Lembre-se de substituir o link acima pelo link gerado no seu GitHub Pages)*
-
 ---
 
 ## 📂 Estrutura do Repositório
@@ -41,8 +39,6 @@ Você pode acessar a versão final do site publicada através do link:
 ├── index.html        # Arquivo principal com a estrutura HTML do currículo
 ├── css/
 │   └── style.css     # Estilização e responsividade da página
-├── js/
-│   └── script.js    # Scripts de interatividade (se houver)
 ├── assets/
 │   └── profile.jpg   # Imagem de perfil e outros recursos de mídia
 └── README.md         # Documentação do repositório
