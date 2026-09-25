@@ -29,7 +29,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Você pode acessar a versão final do site publicada através do link:
 
-👉 **[Acessar Currículo Online](https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/)**
+👉 **[Acessar Currículo Online](https://daniel7365.github.io/Programa-o-Web-I/)**
 
 ---
 
